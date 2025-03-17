@@ -2,5 +2,7 @@
    background-image:url('./images/fatou.png');
 }
 '@media(width<40rem){
-   
+   .fatou{
+      font-size: 10px;
+   }
 }'
